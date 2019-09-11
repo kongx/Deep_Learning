@@ -25,5 +25,3 @@
 学习搭建循环神经网络并应用到自然语言识别和音频应用
 
 
-一个学员整理的比较好的学习笔记：https://github.com/BinWeber/Deep-Learning  
-
